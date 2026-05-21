@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful Outer Glow -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M34,30 h40 a8,8 0 0 1 8,8 v40 a8,8 0 0 1 -8,8 h-40 a8,8 0 0 1 -8,-8 v-40 a8,8 0 0 1 8,-8 z" />
+    <!-- Main Puzzle Core Block -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M37,33 h34 a5,5 0 0 1 5,5 v34 a5,5 0 0 1 -5,5 h-34 a5,5 0 0 1 -5,-5 v-34 a5,5 0 0 1 5,-5 z" />
+    <!-- Smiling face inside launcher icon to represent AzanPapu character -->
+    <!-- Eye left -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,47a3,3 0 1,1 -6,0 3,3 0 1,1 6,0" />
+    <!-- Eye right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,47a3,3 0 1,1 -6,0 3,3 0 1,1 6,0" />
+    <!-- Blushing cheeks -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M41,56a2.5,2.5 0 1,1 -5,0 2.5,2.5 0 1,1 5,0" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M72,56a2.5,2.5 0 1,1 -5,0 2.5,2.5 0 1,1 5,0" />
+    <!-- Cute open smile -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,57 q4,8 8,0 z" />
+    <!-- Mini Star decoration representing the cosmic space theme -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M74,38 L76,41 L79,41 L77,43 L78,46 L75,44 L72,46 L73,43 L71,41 L74,41 Z" />
+</vector>
